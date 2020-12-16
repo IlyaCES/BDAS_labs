@@ -1,0 +1,14 @@
+group '123'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.bouncycastle', name: 'bcpkix-jdk15on', version: '1.63'
+}

@@ -1,0 +1,21 @@
+<employees>
+	<employee id="111">
+		<firstName>Lokesh</firstName>
+		<gr>
+			<gr1 qwer="adfad">123</gr1>
+			<gr2>321</gr2>
+		</gr>
+		<lastName>Gupta</lastName>
+		<location>India</location>
+	</employee>
+	<employee id="222">
+		<firstName>Alex</firstName>
+		<lastName>Gussin</lastName>
+		<location>Russia</location>
+	</employee>
+	<employee id="333">
+		<firstName>David</firstName>
+		<lastName>Feezor</lastName>
+		<location>USA</location>
+	</employee>
+</employees>
